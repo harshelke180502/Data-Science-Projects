@@ -37,7 +37,7 @@ Model Accuracy: 76.67%
 
 Evaluation Metrics: Confusion matrix, precision, recall, and F1-score were computed to assess model performance.
 
-Tools and Libraries
+Tools and Libraries used:
 
 Python (pandas, numpy, sklearn)
 
